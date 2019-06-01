@@ -1,0 +1,83 @@
+ [
+    {
+        "kelime":"hello",
+        "anlami":"merhaba"
+     },
+    {
+        "kelime":"buy",
+        "anlami":"satın alma"
+    },
+    {
+        "kelime":"sell",
+        "anlami":"satmak"
+    },
+    {
+        "kelime":"goodbye",
+        "anlami":"güle güle"
+    },
+    { 
+        "kelime":"close",
+        "anlami":"kapalı"
+    }   ,
+    {
+        "kelime":"enough",
+        "anlami":"yeter/yeteri kadar"
+     },
+    {
+        "kelime":"help",
+        "anlami":"yardım"
+    },
+    {
+        "kelime":"stop",
+        "anlami":"dur"
+    },
+    {
+        "kelime":"idea",
+        "anlami":"fikir"
+    },
+    { 
+        "kelime":"mouse",
+        "anlami":"fare"
+    },   
+    {
+        "kelime":"screen",
+        "anlami":"ekran"
+     },
+    {
+        "kelime":"buy",
+        "anlami":"satın alma"
+    },
+    {
+        "kelime":"sell",
+        "anlami":"satmak"
+    },
+    {
+        "kelime":"goodbye",
+        "anlami":"güle güle"
+    },
+    { 
+        "kelime":"close",
+        "anlami":"kapalı"
+    } ,  
+    {
+        "kelime":"hello",
+        "anlami":"merhaba"
+     },
+    {
+        "kelime":"buy",
+        "anlami":"satın alma"
+    },
+    {
+        "kelime":"sell",
+        "anlami":"satmak"
+    },
+    {
+        "kelime":"goodbye",
+        "anlami":"güle güle"
+    },
+    { 
+        "kelime":"close",
+        "anlami":"kapalı"
+    }   
+
+]
