@@ -1,6 +1,5 @@
-# ingilizce_turkce_sozluk
+# ingilizce_turkce_kelimeler
 
-A new Flutter project.
 
 ## Getting Started
 
