@@ -8,8 +8,7 @@ import 'package:flutter/material.dart';
  }
  
  class _MyHomePageState extends State<MyHomePage> {
-   List ingkelimeler;
-   List trkelimeler;
+   List ingkelimeler; 
  
 
    @override
@@ -37,14 +36,10 @@ import 'package:flutter/material.dart';
   
         },
                 );
-
-                },
+    },
               ),
   ),
-
-          ),
-
-        
-        );
+    ),
+  );
    }
  } 
