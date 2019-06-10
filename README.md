@@ -1,5 +1,6 @@
 # ingilizce_turkce_kelimeler
 
+ingilizce ve türkçe kelimelerin yer aldığı bir json dosyasını bir liste içerisinde ekrana yazan uygulama.
 
 ## Getting Started
 
