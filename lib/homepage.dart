@@ -28,8 +28,11 @@ import 'package:flutter/material.dart';
          itemCount:ingkelimeler.length,
         itemBuilder: (context,i){
           return Row(
-            children: <Widget>[
-              new Text(ingkelimeler[i]['kelime'] +"  :   "+ingkelimeler[i]['anlami'] ),
+             mainAxisSize: MainAxisSize.max,
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+           children: <Widget>[
+              new Text(ingkelimeler[i]['kelime']),
+             new Text(ingkelimeler[i]['anlami']),
           ],
 
           );  
